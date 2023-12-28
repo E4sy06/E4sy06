@@ -23,6 +23,7 @@ I am currently a dual student for IT security
 
 ### Badges
 
-<figure><embed src="https://wakatime.com/share/@018c8260-50ad-4164-a4fd-9f3b796a691a/a0b75a1b-2f1f-45da-bb8f-021974b20820.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@018c8260-50ad-4164-a4fd-9f3b796a691a/18a3fe10-652b-491f-a038-39115bc27af0.png
+    :target: https://wakatime.com/
 
 [![wakatime](https://wakatime.com/badge/user/018c8260-50ad-4164-a4fd-9f3b796a691a/project/018caa5f-83b2-451f-92fe-2a84e5df42da.svg)](https://wakatime.com/badge/user/018c8260-50ad-4164-a4fd-9f3b796a691a/project/018caa5f-83b2-451f-92fe-2a84e5df42da)
