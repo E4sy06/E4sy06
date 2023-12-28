@@ -23,10 +23,6 @@ I am currently a dual student for IT security
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/E4sy06"><img src="https://github-readme-stats.vercel.app/api?username=E4sy06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="E4sy06's GitHub stats" /></a>
-
-<a href="https://github.com/E4sy06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E4sy06&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<figure><embed src="https://wakatime.com/share/@018c8260-50ad-4164-a4fd-9f3b796a691a/a0b75a1b-2f1f-45da-bb8f-021974b20820.svg"></embed></figure>
 
 [![wakatime](https://wakatime.com/badge/user/018c8260-50ad-4164-a4fd-9f3b796a691a/project/018caa5f-83b2-451f-92fe-2a84e5df42da.svg)](https://wakatime.com/badge/user/018c8260-50ad-4164-a4fd-9f3b796a691a/project/018caa5f-83b2-451f-92fe-2a84e5df42da)
